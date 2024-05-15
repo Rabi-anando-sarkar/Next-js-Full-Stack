@@ -47,3 +47,4 @@ export default function VerificationEmail({ username,otp }: VerificationEmailPro
         </Html>
     )
 } 
+
